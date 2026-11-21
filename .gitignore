@@ -1,0 +1,7 @@
+.venv/
+build/
+installer/Output/
+yayin/
+__pycache__/
+config.json
+*.log

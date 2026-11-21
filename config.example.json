@@ -1,0 +1,13 @@
+{
+  "integrator": {
+    "url": "http://sunucu:port",
+    "database": "VERITABANI",
+    "user_group": "GRUP",
+    "user": "kullanici",
+    "password": "",
+    "timeout": 180
+  },
+  "transfer": {
+    "wait_for_approval": true
+  }
+}
